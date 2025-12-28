@@ -1,0 +1,6 @@
+{
+    "name": "Organization CI Workflow",
+    "description": "Silverkea Learn GHA CI Starter Workflow.",
+    "iconName": "octicon organization",
+    "categories": ["Deployment"]
+}
